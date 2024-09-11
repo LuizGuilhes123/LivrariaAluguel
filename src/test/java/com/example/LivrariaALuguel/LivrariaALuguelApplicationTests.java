@@ -9,5 +9,4 @@ class LivrariaALuguelApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
